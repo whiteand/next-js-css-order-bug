@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { ReactNode } from 'react'
+import { JSX, ReactNode } from 'react'
 
 export default function Page({
   children,

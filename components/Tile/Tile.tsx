@@ -1,6 +1,7 @@
 import clsx from 'clsx'
 import { ITileProps } from './types'
 import s from './Tile.module.scss'
+import { JSX } from 'react'
 
 export default function Tile({
   children,

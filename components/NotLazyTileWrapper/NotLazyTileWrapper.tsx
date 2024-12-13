@@ -1,6 +1,7 @@
 import clsx from 'clsx'
 import Tile from '../Tile'
 import s from './NotLazyTileWrapper.module.scss'
+import { JSX } from 'react'
 
 export default function NotLazyTileWrapper({
   className,
